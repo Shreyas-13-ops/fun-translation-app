@@ -9,11 +9,19 @@ textarea {
 }
 #btn-translate {
     display: block;
+    width: 80vw;
+    height: 8vh;
+
     margin-top: .5rem;
     padding: .3rem .7rem;
+
+    font-size: 1.2rem;
     font-weight: bold;
+    letter-spacing: .12rem;
+    background-color: #2C8147;
+    color: blanchedalmond;
 }
-#display-input {
+#display-output {
     margin-top: 1rem;
     border: 1px solid black;
     height: 30vh;
