@@ -1,10 +1,21 @@
+body > * {
+    box-sizing: border-box;
+}
 textarea {
-    height: 10vh;
+    height: 20vh;
     width: 80vw;
+    padding: .7rem .7rem;
 }
 #btn-translate {
     display: block;
     margin-top: .5rem;
     padding: .3rem .7rem;
     font-weight: bold;
+}
+#display-input {
+    margin-top: 1rem;
+    border: 1px solid black;
+    height: 30vh;
+    width: 80vw;
+    padding: .7rem .7rem;
 }
