@@ -1,2 +1,2 @@
 # fun-translation-app
- Translate your sentences into bannana language. [ Neogcamp | lesson 4 ] 
+ Translate your sentences into Yoda language. [ Neogcamp | lesson 4 ] 
