@@ -1,0 +1,10 @@
+textarea {
+    height: 10vh;
+    width: 80vw;
+}
+#btn-translate {
+    display: block;
+    margin-top: .5rem;
+    padding: .3rem .7rem;
+    font-weight: bold;
+}
